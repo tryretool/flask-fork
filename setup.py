@@ -10,7 +10,7 @@ setup(
     name="Flask",
     version=version,
     install_requires=[
-        "Werkzeug>=0.15",
+        "Werkzeug==1.0.1",
         "Jinja2>=2.10.1",
         "itsdangerous>=0.24",
         "click>=5.1",
